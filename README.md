@@ -1,4 +1,4 @@
---HDT8
+# HDT8
 # Gestor de Emergencias - Programa de Colas de Prioridad
 
 Este es un programa Java que implementa un gestor de emergencias utilizando colas de prioridad. El programa permite gestionar fichas de pacientes según la gravedad de sus síntomas, utilizando diferentes estructuras de datos para la cola de prioridad.
